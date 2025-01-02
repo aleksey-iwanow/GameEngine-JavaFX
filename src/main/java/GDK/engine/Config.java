@@ -1,7 +1,7 @@
 package GDK.engine;
 
 public class Config {
-    public static final String PATH_PROJECT = "src\\main\\java\\game\\dark\\";
+    public static final String PATH_PROJECT = "src\\main\\java\\games\\dark\\";
     public static final String NAME_SCENE = PATH_PROJECT+"res/main.scene";
     public static final String TITLE = "GameEngine";
     public static final double SCALEFACTOR = 0.8;
