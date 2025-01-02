@@ -1,0 +1,10 @@
+enemyEye_prefab
+img/eye.png
+0,0
+20,20
+0
+1
+False
+True
+OrderView^,^int=order^,^-0.6$Function^,^update^;^function^,^True^;^dark.Eye
+None

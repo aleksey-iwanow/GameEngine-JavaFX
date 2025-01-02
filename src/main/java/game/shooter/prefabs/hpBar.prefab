@@ -1,0 +1,10 @@
+hpBar
+None
+1362,568
+160,14
+0
+1
+False
+True
+Color box^,^string=color^,^#991551$Function^,^bool=update^;^string=function^,^False^;^shooter.HpBarController
+None

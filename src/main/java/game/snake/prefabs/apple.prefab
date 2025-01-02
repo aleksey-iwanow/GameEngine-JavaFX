@@ -1,0 +1,10 @@
+apple_prefab
+None
+100,100
+25,25
+0
+1
+True
+True
+Color box^,^string=color^,^#B00C0F$Function^,^update^;^function^,^True^;^snake.Apple
+None

@@ -1,0 +1,10 @@
+enemy_prefab
+None
+100,100
+100,100
+0
+1
+False
+True
+OrderView^,^int=order^,^-0.52$Function^,^update^;^function^,^True^;^dark.Enemy$Animation^,^int=frames^;^list:frames^;^bool=looping^;^int=speed(ms)^;^bool=active^;^bool=deleted^;^string=tag^,^28^;^img/enemyBack/enemyBack1.png*&*img/enemyBack/enemyBack2.png*&*img/enemyBack/enemyBack3.png*&*img/enemyBack/enemyBack4.png^;^True^;^50^;^True^;^False^;^backLoop
+None

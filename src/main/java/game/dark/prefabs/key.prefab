@@ -1,0 +1,10 @@
+key_prefab
+img/key/key1.png
+100,100
+80,80
+0
+1
+False
+True
+OrderView^,^int=order^,^-0.45$Function^,^update^;^function^,^True^;^dark.Key$Animation^,^int=frames^;^list:frames^;^bool=looping^;^int=speed(ms)^;^bool=active^;^bool=deleted^;^string=tag^,^28^;^img/key/key1.png*&*img/key/key2.png*&*img/key/key3.png*&*img/key/key4.png*&*img/key/key5.png*&*img/key/key6.png*&*img/key/key7.png*&*img/key/key8.png*&*img/key/key9.png*&*img/key/key10.png*&*img/key/key11.png*&*img/key/key12.png*&*img/key/key13.png*&*img/key/key14.png*&*img/key/key15.png*&*img/key/key16.png*&*img/key/key17.png*&*img/key/key18.png*&*img/key/key19.png*&*img/key/key20.png*&*img/key/key21.png*&*img/key/key22.png*&*img/key/key23.png*&*img/key/key24.png*&*img/key/key25.png*&*img/key/key26.png*&*img/key/key27.png*&*img/key/key28.png^;^True^;^50^;^True^;^False^;^keyLoop
+None

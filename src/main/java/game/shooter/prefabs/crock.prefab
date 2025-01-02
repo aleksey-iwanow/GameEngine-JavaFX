@@ -1,0 +1,10 @@
+crock
+img/crockEnemy/crock1.png
+1415,663
+250,250
+0
+1
+True
+True
+Animation^,^int=frames^;^list:frames^;^bool=looping^;^int=speed(ms)^;^bool=active^;^bool=deleted^;^string=tag^,^3^;^img/crockEnemy/crock1.png*&*img/crockEnemy/crock2.png*&*img/crockEnemy/crock3.png^;^True^;^150^;^False^;^False^;^walk$Function^,^bool=update^;^string=function^,^False^;^shooter.Crock$Animation^,^int=frames^;^list:frames^;^bool=looping^;^int=speed(ms)^;^bool=active^;^bool=deleted^;^string=tag^,^7^;^img/crockEnemy/crock4.png*&*img/crockEnemy/crock5.png*&*img/crockEnemy/crock6.png*&*img/crockEnemy/crock7.png*&*img/crockEnemy/crock8.png*&*img/crockEnemy/crock9.png*&*img/crockEnemy/crock10.png^;^False^;^120^;^False^;^True^;^dead$Collider^,^int=x^;^int=y^;^int=width^;^int=height^,^20^;^40^;^200^;^170
+None

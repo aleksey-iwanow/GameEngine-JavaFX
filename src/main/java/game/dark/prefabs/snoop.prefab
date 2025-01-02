@@ -1,0 +1,10 @@
+snoop
+img/frames/frame_5_delay-0.04s.gif
+200,400
+400,600
+0
+1
+False
+True
+OrderView^,^int=order^,^-0.8$Function^,^bool=update^;^string=function^,^False^;^dark.SnoopDog
+end_panel

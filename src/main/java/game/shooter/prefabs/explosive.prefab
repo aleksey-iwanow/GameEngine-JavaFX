@@ -1,0 +1,10 @@
+explosive_prefab
+img/exp3.png
+100,100
+100,100
+0
+1
+True
+True
+Animation^,^int=frames^;^list:frames^;^bool=looping^;^int=speed(ms)^;^bool=active^;^bool=deleted^;^string=tag^,^3^;^img/exp3.png*&*img/exp2.png*&*img/exp1.png^;^False^;^70^;^True^;^True^;^exp
+None
