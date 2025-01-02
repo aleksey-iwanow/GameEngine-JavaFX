@@ -40,13 +40,26 @@ None
 ```
 
 #### Components?
-Это какие-то особенности объекта.
-Базовые компонеты хранятся в папке components.
-На данный момент есть ->
-- Function
-- 
+These are some features of the object.
+Basic components are stored in the components folder.
+At the moment there are ->
+![sdsd](https://github.com/aleksey-iwanow/GameEngine-JavaFX/blob/master/screenshots_/img.png)
 
-Function.java : line 19
+## How to write code?
 ``` Java
-Class<?> clazz = Class.forName("games." + className);
+package games.snake;
+
+import GDK.engine.*;
+
+public class Test extends ScriptControl {
+    @Override
+    public void start() {
+      // actions that occur at startup
+    }
+
+    @Override
+    public void update() {
+      // actions that happen every frame
+    }
+}
 ```

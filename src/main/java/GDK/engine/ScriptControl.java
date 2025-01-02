@@ -1,8 +1,7 @@
 package GDK.engine;
 import GDK.engine.components.Transform;
-import game.dark.Moveable;
+import games.dark.Moveable;
 
-import java.io.IOException;
 import java.util.ArrayList;
 
 public abstract class ScriptControl {

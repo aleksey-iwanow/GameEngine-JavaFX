@@ -23,7 +23,7 @@ public class GameObject {
     public boolean isAwake;
     public boolean isDestroy;
     public Runnable updater;
-    private ArrayList<Component> components;
+    public ArrayList<Component> components;
     private double viewOrder;
 
     public GameObject(ArrayList<String> args, int index){

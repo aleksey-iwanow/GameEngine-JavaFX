@@ -1,13 +1,9 @@
 package GDK.engine.components;
 
-import GDK.engine.Component;
 import GDK.engine.Config;
-import GDK.engine.GameObject;
 
-import game.dark.Player;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
-import javafx.util.Duration;
 
 import java.io.File;
 

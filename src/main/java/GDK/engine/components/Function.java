@@ -1,9 +1,8 @@
 package GDK.engine.components;
 
-import GDK.engine.Component;
-import GDK.engine.Engine;
-import GDK.engine.GameObject;
-import GDK.engine.ScriptControl;
+import GDK.engine.*;
+
+import java.util.Arrays;
 
 public class Function extends Component {
     public boolean update;
@@ -17,7 +16,7 @@ public class Function extends Component {
 
     public void active(){
         try {
-            Class<?> clazz = Class.forName("game."+className);
+            Class<?> clazz = Class.forName("games." + className);
             scControl = (ScriptControl) clazz.newInstance();
             scControl.init(gameObject, gameObject.transform);
             Engine.startThreadForObject(scControl);
